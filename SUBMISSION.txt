@@ -1,0 +1,49 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : INCOMPLETE - see failures below
+ GitHub user    : 
+ Repository     : 
+ Commit         :   
+ Commit author  : 
+ Generated      : 2026-10-05 17:35:37
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-05 17:35:37   
+======================================================================
+ [PASS] Python is installed                        3.14.8
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   1 new line of output
+ [FAIL] Git is installed                           
+        -> Git did not run. Revisit the Git install step, then close and reopen VS Code.
+ [FAIL] This folder is a Git repository            
+        -> You may have downloaded the files instead of cloning your repo.
+ [FAIL] You have made a commit                     
+        -> Stage your change, write a commit message, and commit it.
+ [FAIL] This repo points at GitHub                 
+        -> There is no 'origin' remote. Did you clone from YOUR repository?
+ [FAIL] Your commit is pushed to GitHub            
+        -> Fix the line above first -- this repo has no GitHub address.
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+Made by Landon Dahl
+======================================================================
